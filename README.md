@@ -1,7 +1,7 @@
 # Programming-ABB-IRB-7600-Industrial-Robot
 ## Project based on programming mechatronics Robots on Robot Studio(ABB) under guidance of APS-GmbH European Center, Germany.
 
-This project has been further divided into three minor projects with different functionality. All scripting has been done in the programming language RAPID and ion the platform Robot Studio.  
+This project has been further divided into three minor projects with different functionality. All scripting has been done in the programming language RAPID and on the platform Robot Studio.  
 
 You can download and use Robot Studio in Basic Functionality mode for free by the link given below. 
 
